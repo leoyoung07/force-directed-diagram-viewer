@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WindowsFormsApplication1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Force-Directed Diagram Viewer")]
+[assembly: AssemblyDescription("Visually compare output form the standard nodes algorithm with the faster node-pairs algorithm.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WindowsFormsApplication1")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCompany("FreshFic Media")]
+[assembly: AssemblyProduct("Force-Directed Diagram Viewer")]
+[assembly: AssemblyCopyright("Copyright ©  2015 Michael Derenardi")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
